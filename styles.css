@@ -1,0 +1,44 @@
+body {
+    background-color:#232b2b;
+    font-family: monospace; 
+    color: #ffdead;
+    }
+
+    .border1 {
+    text-align: center;
+    border: 3px solid #DC3D24;
+    font-size: 15px;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 28%;     
+          }
+    
+    .centertext {
+      text-align: center;
+      font-size: 15px;
+     
+    }     
+    
+    a:link, a:visited {
+      color: #B0C4DE
+    }
+    
+  
+    img {
+      border-radius: 8px;
+    }
+
+    ul {
+      list-style-type: none;
+    }
+
+    .centertext2 {
+      text-align: center;
+      font-size: 13px;
+    }
+
+    
